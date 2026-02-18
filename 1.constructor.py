@@ -11,5 +11,5 @@ class Person:
         print(f"number of persons {Person.numofpersons}")
 
 
-a=Person("Anas","Engineer")  # a goes to self anas to n  and engineer tto c 
+a=Person("Anas","Engineer")  # a goes to self anas to n  and engineer to c 
 a.info()
